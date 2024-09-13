@@ -1,4 +1,4 @@
-# Olá! Sou Maicon Alexandre, um entusiasta da programação e estudante dedicado. Atualmente, estou focado no aprendizado de Java e estou cursando a graduação em Análise e Desenvolvimento de Sistemas. Com uma carreira de 4 anos em Suporte Técnico de Sistemas, desenvolvi uma série de habilidades valiosas que complementam minha formação acadêmica e minhas aspirações profissionais. São elas:
+# Olá! Sou Maicon Alexandre, um entusiasta da programação e estudante dedicado. Atualmente, estou focado no aprendizado de Java e estou cursando a graduação em Análise e Desenvolvimento de Sistemas. Com uma carreira de +4 anos em Suporte Técnico de Sistemas, desenvolvi uma série de habilidades valiosas que complementam minha formação acadêmica e minhas aspirações profissionais. São elas:
 
  - Entender a necessidade do cliente.
  - Boa comunicação.
